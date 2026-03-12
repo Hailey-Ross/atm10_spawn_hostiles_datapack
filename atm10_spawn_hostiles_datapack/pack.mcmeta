@@ -1,0 +1,11 @@
+{
+  "pack": {
+    "pack_format": 61,
+    "description": "ATM10 Spawn Protection\nKills hostile mobs within spawn radius."
+  },
+
+  "author": "Hailey_Ross",
+  "version": "0.0.1",
+  "minecraft_version": "1.21.1",
+  "modpack": "All The Mods 10"
+}
