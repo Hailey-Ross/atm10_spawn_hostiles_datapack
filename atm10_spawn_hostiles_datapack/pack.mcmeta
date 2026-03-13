@@ -1,7 +1,7 @@
 {
   "pack": {
     "pack_format": 61,
-    "description": "ATM10 Spawn Protection\nKills hostile mobs within spawn radius."
+    "description": "Adds #spawn:hostiles tag for all hostile mobs\nfrom vanilla MC and ATM10 mods."
   },
 
   "author": "Hailey_Ross",
