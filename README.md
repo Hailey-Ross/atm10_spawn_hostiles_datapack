@@ -2,7 +2,7 @@
 
 **Author:** [Hailey-Ross](https://github.com/Hailey-Ross/)  
 **Version:** 0.0.1  
-**Minecraft Version:** 1.21.1  
+**Minecraft Version:** __NEOFORGE__ 1.21.1  
 **Modpack:** [All The Mods 10](https://www.curseforge.com/minecraft/modpacks/all-the-mods-10)
 
 ---
